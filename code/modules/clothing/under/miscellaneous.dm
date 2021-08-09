@@ -701,3 +701,13 @@
 	worn_state = "guard"
 	armor = list(melee = 10, bullet = 0, laser = 0,energy = 0, bomb = 0, bio = 0, rad = 0)
 	siemens_coefficient = 0.9
+
+
+
+/obj/item/clothing/under/ncrtrooper
+	name = "NCR trooper's uniform"
+	desc = "A Standerd issue NCR uniform with a Flak jacket around it to provide armor."
+	icon_state = "ncr"
+	item_state = "ncr"
+	worn_state = "ncr"
+	armor = list(melee = 60, bullet = 35, laser = 40, energy = 35, bomb = 30, bio = 0, rad = 0)

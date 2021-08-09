@@ -281,5 +281,13 @@
 	str_requirement = 18
 
 
+/obj/item/clothing/head/helmet/ncr/ncrhelm
+	name = "NCR Steelpot"
+	icon_state = "NCR_steelpot"
+	item_state = "NCR_steelpot"
+	desc = "AN Steelpot helmet in service in the NCR and her territories will keep you alive for a few extra seconds but thats about it."
+	armor = list(melee = 75, bullet = 75, laser = 55, energy = 40, bomb = 50, bio = 10, rad = 0)//proteck ya neck
+	str_requirement = 10
+
 
 
