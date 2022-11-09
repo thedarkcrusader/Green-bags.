@@ -386,3 +386,66 @@
 /turf/simulated/floor/beach/water/New()
 	..()
 	overlays += image("icon"='icons/misc/beach.dmi',"icon_state"="water5","layer"=BASE_MOB_LAYER+0.1)
+
+
+/turf/simulated/floor/wood
+	name = "wooden floor"
+	icon = 'icons/turf/flooring/wood.dmi'
+	icon_state = "wood"
+	initial_flooring = /decl/flooring/wood
+
+/turf/simulated/floor/road
+	name = "Concrete road"
+	icon = 'icons/turf/flooring/tiles.dmi'
+	icon_state = "road"
+	initial_flooring = /decl/flooring/road
+
+/turf/simulated/floor/sandstone_flooring
+	name = "Sandstone flooring"
+	icon = 'icons/turf/flooring/tiles.dmi'
+	icon_state = "sandstone_floor"
+	initial_flooring = /decl/flooring/sandstone_flooring
+
+
+/turf/simulated/floor/sandstone_slab
+	name = "Sandstone flooring"
+	icon = 'icons/turf/flooring/tiles.dmi'
+	icon_state = "sandstone_slab"
+	initial_flooring = /decl/flooring/sandstone_slab
+
+/turf/simulated/floor/sandstone_brick
+	name = "Sandstone flooring"
+	icon = 'icons/turf/flooring/tiles.dmi'
+	icon_state = "sandstone_floor"
+	initial_flooring = /decl/flooring/sandstone_brick
+
+/turf/simulated/floor/sandstone_redstone
+	name = "Sandstone flooring"
+	icon = 'icons/turf/flooring/tiles.dmi'
+	icon_state = "sandstone_redstone"
+	initial_flooring = /decl/flooring/sandstone_redstone
+
+	/turf/simulated/floor/sandstone_tile
+	name = "Sandstone flooring"
+	icon = 'icons/turf/flooring/tiles.dmi'
+	icon_state = "sandstone_tile"
+	initial_flooring = /decl/flooring/sandstone_tile
+
+
+/turf/simulated/floor/dark_sandstone
+	name = "Dark Sandstone flooring"
+	icon = 'icons/turf/flooring/tiles.dmi'
+	icon_state = "dark_sandstone"
+	initial_flooring = /decl/flooring/dark_sandstone
+
+/turf/simulated/floor/darker_sandstone
+	name = "Darker Sandstone flooring"
+	icon = 'icons/turf/flooring/tiles.dmi'
+	icon_state = "darker_sandstone"
+	initial_flooring = /decl/flooring/darker_sandstone
+
+/turf/simulated/floor/pavement
+	name = "Stone pavement"
+	icon = 'icons/turf/flooring/tiles.dmi'
+	icon_state = "pavement"
+	initial_flooring = /decl/flooring/pavement
