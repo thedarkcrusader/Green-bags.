@@ -7,6 +7,7 @@
 	item_state = "undertaker"
 
 
+
 /obj/item/clothing/suit/undertaker
 	name = "undertaker's garments"
 	desc = "To protect you from the disease of the dead."
